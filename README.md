@@ -105,18 +105,6 @@ Melhores ferramentas para ajudar quem é Front-End Developer e não sabe na hora
 
 10. [UI Movement](https://uimovement.com/) - UI Movement é um diretório de animações e transições de interface de usuário. Você pode procurar por inspirações em animações e transições aqui.
 
-## Contribuição
-
-Este projeto está aberto para contribuição de outros usuários. Se você deseja contribuir, siga estas etapas:
-
-1. Faça um fork deste repositório.
-2. Crie uma branch com suas alterações: `git checkout -b minha-alteracao`
-3. Faça suas alterações e faça commit: `git commit -m 'Minha alteração'`
-4. Envie suas alterações para sua branch: `git push origin minha-alteracao`
-5. Envie uma solicitação de pull para esta branch neste repositório.
-
-Agradecemos antecipadamente suas contribuições!
-
 ## Licença
 
 Este projeto está licenciado sob a MIT - veja o arquivo [LICENSE](LICENSE) para obter detalhes.
