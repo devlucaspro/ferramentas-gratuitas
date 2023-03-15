@@ -81,7 +81,13 @@ Melhores ferramentas para ajudar quem é Front-End Developer e não sabe na hora
 
 39. [ESLint](https://eslint.org/) - ESLint é uma ferramenta de análise de código estático para identificar problemas em código JavaScript.
 
-40. [Vue.js](https://vuejs.org/) - Vue.js é um framework JavaScript progressivo para construir interfaces de usuário.```
+40. [Vue.js](https://vuejs.org/) - Vue.js é um framework JavaScript progressivo para construir interfaces de usuário.
+
+41. [Codewell](https://www.codewell.cc/challenges) - Oferece diversos desafios do mundo real focado em Frontend.
+
+42. [Dev Challenges](https://devchallenges.io/) - Outro site que oferece muitos desafios Frontend. 
+
+43. [Dev Front Challenges](https://devfrontchallenges.netlify.app/) - Um site desenvolvido por mim para ajudar quem está iniciando na área de desenvolvimento frontend com desafios do mundo real para você treinar e compartilhar com nossa comunidade.
 
 ## Agora sites para buscar inspirações para seus futuros projetos Front-End. 🔥
 
@@ -104,6 +110,18 @@ Melhores ferramentas para ajudar quem é Front-End Developer e não sabe na hora
 9. [Collect UI](https://collectui.com/) - Collect UI é uma plataforma que apresenta desafios de design diários para designers. Você pode usar isso para praticar suas habilidades de design e obter inspiração para projetos de front-end.
 
 10. [UI Movement](https://uimovement.com/) - UI Movement é um diretório de animações e transições de interface de usuário. Você pode procurar por inspirações em animações e transições aqui.
+
+## Ferramentas para usar em seus projetos. ✌️
+
+1. [Scroll Reveal](https://scrollrevealjs.org/) - O Scroll Reveal é uma ferramenta que ajuda a implementar animações no seu projeto Frontend de maneira fácil.
+
+2. [Cursor Library](https://profyr.com/#/) - Te ajuda a construir estilos diferentes e inovadores para o cursor padrão do mouse.
+
+3. [UIverse](https://uiverse.io/) - É um sistema de compartilhamento de componentes feito com HTML, CSS e JS para usar em seus projetos.
+
+4. [Lordicon](https://lordicon.com/) - Icones animados para seus projetos Frontend.
+
+5. [Font Awesome](https://fontawesome.com) - Uma lib que oferece diversos icones visuais para usar em seus projetos, oferece o plano gratuito e o pago também.
 
 ## Licença
 
