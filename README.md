@@ -89,7 +89,7 @@ Melhores ferramentas para ajudar quem é Front-End Developer e não sabe na hora
 
 43. [Dev Front Challenges](https://devfrontchallenges.netlify.app/) - Um site desenvolvido por mim para ajudar quem está iniciando na área de desenvolvimento frontend com desafios do mundo real para você treinar e compartilhar com nossa comunidade.
 
-## Agora sites para buscar inspirações para seus futuros projetos Front-End. 🔥
+## Sites para buscar inspirações para seus futuros projetos Front-End. 🔥
 
 1. [Dribbble](https://dribbble.com/) - Dribbble é uma plataforma online para designers compartilharem seus trabalhos e projetos. Você pode encontrar muitas inspirações para design de interface de usuário aqui.
 
